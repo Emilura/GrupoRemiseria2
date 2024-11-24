@@ -15,7 +15,6 @@ namespace Remiseria.Modelo
         private string licenciaConducir;
         private bool activo;
 
-        
 
         public int IdChofer1 { get => IdChofer; set => IdChofer = value; }
         public string Apellido { get => apellido; set => apellido = value; }
