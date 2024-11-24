@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\frutoremiseria\\remiseria\\remiseria\\modelos\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\modelos\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\frutoremiseria\\remiseria\\remiseria\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\frutoremiseria\\remiseria\\remiseria\\modelos\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\modelos\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\frutoremiseria\\remiseria\\remiseria\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Remiseria\\Modelos\\Vehiculo.cs",
+              "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Vehiculo.cs",
+              "RelativeToolTip": "Remiseria\\Modelos\\Vehiculo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:15:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Servicio.cs",
+              "RelativeDocumentMoniker": "Remiseria\\Modelos\\Servicio.cs",
+              "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Servicio.cs",
+              "RelativeToolTip": "Remiseria\\Modelos\\Servicio.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:14:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Remiseria\\Modelos\\Cliente.cs",
+              "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "Remiseria\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:08:47.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chofer.cs",
+              "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Chofer.cs",
+              "RelativeDocumentMoniker": "Remiseria\\Modelos\\Chofer.cs",
+              "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\FrutoRemiseria\\Remiseria\\Remiseria\\Modelos\\Chofer.cs",
+              "RelativeToolTip": "Remiseria\\Modelos\\Chofer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:36:45.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Remiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj": {}
+    "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Remiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj": {
+    "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Remiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj",
+        "projectUniqueName": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj",
         "projectName": "Remiseria2",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Remiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj",
+        "projectPath": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria2\\Remiseria2\\Remiseria2.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Remiseria2\\Remiseria2\\Remiseria2\\obj\\",
+        "outputPath": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria2\\Remiseria2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -67,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

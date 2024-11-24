@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Remiseria2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbd16fb0ffc39acd6db77d7ac11db4c30d257b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Remiseria2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Remiseria2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
