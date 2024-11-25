@@ -14,3 +14,4 @@ D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csp
 D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.Up2Date
 D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.exe
 D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.pdb
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.Vistas.frmPrincipal.resources

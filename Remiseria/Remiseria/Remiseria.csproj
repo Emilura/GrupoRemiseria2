@@ -68,6 +68,12 @@
     <Compile Include="Vistas\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vistas\frmChofer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmChofer.Designer.cs">
+      <DependentUpon>frmChofer.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
