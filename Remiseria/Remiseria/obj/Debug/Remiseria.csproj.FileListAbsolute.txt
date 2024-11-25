@@ -1,0 +1,16 @@
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\Remiseria.exe.config
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\Remiseria.exe
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\Remiseria.pdb
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\MySql.Data.dll
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\System.Memory.dll
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\System.Numerics.Vectors.dll
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\System.Buffers.dll
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\bin\Debug\MySql.Data.xml
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.AssemblyReference.cache
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.Properties.Resources.resources
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.GenerateResource.cache
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.CoreCompileInputs.cache
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.Up2Date
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.exe
+D:\A-SISTEMA\Desktop\GrupoRemiseria2\Remiseria\Remiseria\obj\Debug\Remiseria.pdb

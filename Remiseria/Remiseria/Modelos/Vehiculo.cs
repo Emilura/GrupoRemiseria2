@@ -16,7 +16,13 @@ namespace Remiseria.Modelo
         private string estado;
         private bool activo;
 
-
+        public int IdVehiculo { get => idVehiculo; set => idVehiculo = value; }
+        public string Patente { get => patente; set => patente = value; }
+        public string Marca { get => marca; set => marca = value; }
+        public string Modelo { get => modelo; set => modelo = value; }
+        public string Año { get => año; set => año = value; }
+        public string Estado { get => estado; set => estado = value; }
+        public bool Activo { get => activo; set => activo = value; }
 
         public Vehiculo()
         {

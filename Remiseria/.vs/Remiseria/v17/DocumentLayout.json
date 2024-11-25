@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\remiseria\\remiseria\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|d:\\a-sistema\\desktop\\gruporemiseria2\\remiseria\\remiseria\\modelos\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{702D7962-1C7C-4B50-8EAD-66B5F1A2B367}|Remiseria\\Remiseria.csproj|solutionrelative:remiseria\\modelos\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,49 +38,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "Remiseria\\Vistas\\Form1.cs",
+              "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Remiseria\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:59:29.486Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Remiseria\\Modelos\\Vehiculo.cs",
               "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Vehiculo.cs",
               "RelativeToolTip": "Remiseria\\Modelos\\Vehiculo.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwC0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:15:28.314Z"
+              "WhenOpened": "2024-11-24T22:15:28.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Servicio.cs",
               "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Servicio.cs",
               "RelativeDocumentMoniker": "Remiseria\\Modelos\\Servicio.cs",
               "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Servicio.cs",
               "RelativeToolTip": "Remiseria\\Modelos\\Servicio.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:14:33.115Z"
+              "WhenOpened": "2024-11-24T22:14:33.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Cliente.cs",
               "RelativeDocumentMoniker": "Remiseria\\Modelos\\Cliente.cs",
               "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Cliente.cs",
               "RelativeToolTip": "Remiseria\\Modelos\\Cliente.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:08:47.477Z"
+              "WhenOpened": "2024-11-24T22:08:47.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Chofer.cs",
               "DocumentMoniker": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Chofer.cs",
               "RelativeDocumentMoniker": "Remiseria\\Modelos\\Chofer.cs",
               "ToolTip": "D:\\A-SISTEMA\\Desktop\\GrupoRemiseria2\\Remiseria\\Remiseria\\Modelos\\Chofer.cs",
               "RelativeToolTip": "Remiseria\\Modelos\\Chofer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAMzMzMzMbwA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T23:36:45.229Z",
               "EditorCaption": ""
