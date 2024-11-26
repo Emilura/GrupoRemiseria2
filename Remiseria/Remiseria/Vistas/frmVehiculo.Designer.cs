@@ -1,6 +1,6 @@
 ﻿namespace Remiseria.Vistas
 {
-    partial class frmChofer
+    partial class frmVehiculo
     {
         /// <summary>
         /// Required designer variable.
@@ -28,37 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvChofer = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvChofer)).BeginInit();
+            this.dgvVehiculo = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvVehiculo)).BeginInit();
             this.SuspendLayout();
             // 
-            // dgvChofer
+            // dgvVehiculo
             // 
-            this.dgvChofer.AllowUserToAddRows = false;
-            this.dgvChofer.AllowUserToDeleteRows = false;
-            this.dgvChofer.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvChofer.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgvChofer.Location = new System.Drawing.Point(0, 300);
-            this.dgvChofer.Name = "dgvChofer";
-            this.dgvChofer.ReadOnly = true;
-            this.dgvChofer.Size = new System.Drawing.Size(800, 150);
-            this.dgvChofer.TabIndex = 0;
+            this.dgvVehiculo.AllowUserToAddRows = false;
+            this.dgvVehiculo.AllowUserToDeleteRows = false;
+            this.dgvVehiculo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvVehiculo.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dgvVehiculo.Location = new System.Drawing.Point(0, 300);
+            this.dgvVehiculo.Name = "dgvVehiculo";
+            this.dgvVehiculo.ReadOnly = true;
+            this.dgvVehiculo.Size = new System.Drawing.Size(800, 150);
+            this.dgvVehiculo.TabIndex = 0;
             // 
-            // frmChofer
+            // frmVehiculo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dgvChofer);
-            this.Name = "frmChofer";
-            this.Text = "frmChofer";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvChofer)).EndInit();
+            this.Controls.Add(this.dgvVehiculo);
+            this.Name = "frmVehiculo";
+            this.Text = "frmVehiculo";
+            ((System.ComponentModel.ISupportInitialize)(this.dgvVehiculo)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dgvChofer;
+        private System.Windows.Forms.DataGridView dgvVehiculo;
     }
 }

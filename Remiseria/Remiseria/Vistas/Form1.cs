@@ -22,5 +22,34 @@ namespace Remiseria.Vistas
         {
             System.Windows.Forms.Application.Exit();
         }
+
+        private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCliente ventana= new frmCliente();
+            ventana.MdiParent= this;
+            ventana.Show();
+
+        }
+
+        private void choferToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmChofer ventana=new frmChofer();
+            ventana.MdiParent= this;
+            ventana.Show();
+        }
+
+        private void servicioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmServicio ventana=new frmServicio();
+            ventana.MdiParent = this;
+            ventana.Show();
+        }
+
+        private void vehiculoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmVehiculo ventana = new frmVehiculo();
+            ventana.MdiParent = this;
+            ventana.Show();
+        }
     }
 }

@@ -33,6 +33,9 @@
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.administrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.choferToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.servicioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.vehiculoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -65,7 +68,10 @@
             // administrarToolStripMenuItem
             // 
             this.administrarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.clienteToolStripMenuItem});
+            this.clienteToolStripMenuItem,
+            this.choferToolStripMenuItem,
+            this.servicioToolStripMenuItem,
+            this.vehiculoToolStripMenuItem});
             this.administrarToolStripMenuItem.Name = "administrarToolStripMenuItem";
             this.administrarToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
             this.administrarToolStripMenuItem.Text = "Administrar";
@@ -75,6 +81,28 @@
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
             this.clienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.clienteToolStripMenuItem.Text = "Cliente";
+            this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
+            // 
+            // choferToolStripMenuItem
+            // 
+            this.choferToolStripMenuItem.Name = "choferToolStripMenuItem";
+            this.choferToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.choferToolStripMenuItem.Text = "Chofer";
+            this.choferToolStripMenuItem.Click += new System.EventHandler(this.choferToolStripMenuItem_Click);
+            // 
+            // servicioToolStripMenuItem
+            // 
+            this.servicioToolStripMenuItem.Name = "servicioToolStripMenuItem";
+            this.servicioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.servicioToolStripMenuItem.Text = "Servicio";
+            this.servicioToolStripMenuItem.Click += new System.EventHandler(this.servicioToolStripMenuItem_Click);
+            // 
+            // vehiculoToolStripMenuItem
+            // 
+            this.vehiculoToolStripMenuItem.Name = "vehiculoToolStripMenuItem";
+            this.vehiculoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.vehiculoToolStripMenuItem.Text = "Vehiculo";
+            this.vehiculoToolStripMenuItem.Click += new System.EventHandler(this.vehiculoToolStripMenuItem_Click);
             // 
             // frmPrincipal
             // 
@@ -100,5 +128,8 @@
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem administrarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem clienteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem choferToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem servicioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem vehiculoToolStripMenuItem;
     }
 }
